@@ -1,0 +1,17 @@
+body, html {
+    height: 100%;
+}
+
+body {
+    background-image: url("../images/sportscomplexbackground.jpg");
+        height: 100%; 
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+.mascot-img{
+    height: 150px;
+    width: 150px;
+    margin-bottom: 5px;
+}
